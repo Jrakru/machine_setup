@@ -27,7 +27,7 @@ unzip filename.zip -d /path/to/output/directory/
  **Update Font Cache**: Update the font cache using `fc-cache`.
 
     ```bash
-    fc-cache -fv
+    sudo fc-cache -fv
     ```
 
  **Set the Font in Your Terminal**: Open the preferences/settings of your terminal and set the newly installed font as the default.
