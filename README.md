@@ -7,6 +7,11 @@ Font: MesoloLG
 
 
  **Install the Font**: You can install the font for your user or system-wide.
+to unzip the downloaded font folder
+ ```bash
+unzip filename.zip -d /path/to/output/directory/
+
+```
 
     - For your user only:
         ```bash
