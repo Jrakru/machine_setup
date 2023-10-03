@@ -21,7 +21,7 @@ unzip filename.zip -d /path/to/output/directory/
 
     - System-wide:
         ```bash
-        sudo cp /path/to/your/font.ttf /usr/local/share/fonts/
+        sudo cp -r /path/to/your/font/ /usr/local/share/fonts/
         ```
 
  **Update Font Cache**: Update the font cache using `fc-cache`.
